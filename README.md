@@ -8,5 +8,5 @@ pip install -r requirements.txt
 ```
 Run
 ```
-python make_dataset.py
+python make_dataset.py --clean
 ```
